@@ -33,11 +33,6 @@
     width: 100%;//you have to set haigt and widt for it to work
     height: 100%;//you have to set haigt and widt for it to work
     object-fit: cover;
-    display: block;
-    
-  }
-
-  & > * {//temporany fix for the big size of the image
-    width: 100%;
+    display: block; 
   }
 }
